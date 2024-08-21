@@ -4,4 +4,4 @@ This dataset contains real-world data used for production scheduling and is inte
 
 ## Document structure
 - `README.txt`: This description file.
-- `orders.csv`: CSV file containing order information.
+- `nsga2_data.xlsx`: Detailed description of the data file containing order, machine, and processing time information.
